@@ -6,19 +6,19 @@ post = [
         tags: ["tag1", "tag2", "tag3"]
     },
     {
-        title: "Ciambellone",
+        title: "Cracker Barbabietola",
         text: "Prova",
         img: "/img/cracker_barbabietola.jpeg",
         tags: ["tag1", "tag2", "tag3"]
     },
     {
-        title: "Ciambellone",
+        title: "Pane Fritto Dolce",
         text: "Prova",
         img: "/img/pane_fritto_dolce.jpeg",
         tags: ["tag1", "tag2", "tag3"]
     },
     {
-        title: "Ciambellone",
+        title: "Pasta Barbabietola",
         text: "Prova",
         img: "/img/pasta_barbabietola.jpeg",
         tags: ["tag1", "tag2", "tag3"]
